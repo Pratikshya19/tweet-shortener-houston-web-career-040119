@@ -1,5 +1,5 @@
 # Write your code here.
-def word_substituter(strings)
+
   
   
   def dictionary
